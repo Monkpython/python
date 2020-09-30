@@ -1,0 +1,7 @@
+Test Email
+
+This is my mail sent with Python!
+
+blah blah blah
+
+Biatch
